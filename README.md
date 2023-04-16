@@ -1,6 +1,11 @@
 # MyPortfolio
 This is my projects' portfolio. Most of the projects here contained have been created for the Digital Humanities and Digital Knowledge's Second Cycle Degree at <a href="https://www.unibo.it/it">University of Bologna</a>
 
+<h1>A.Y. 2022/2023</h1>
+<ul>
+  <li> <b>Usability and User Experience</b> - <a href="https://github.com/PLAYEDtheapp/Played">Project Repository</a></li>
+</ul>
+<br>
 <h1>A.Y. 2021/2022</h1>
 <ul>
   <li> <b>Data Science</b> - <a href="https://github.com/olgagolgan/v-AMOS.git">Project Repository</a></li>
