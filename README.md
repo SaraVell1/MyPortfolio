@@ -5,6 +5,7 @@ This is my projects' portfolio. Most of the projects here contained have been cr
 <ul>
   <li> <b>Usability and User Experience</b> - <a href="https://github.com/PLAYEDtheapp/Played">Project Repository</a></li>
    <li> <b>Network Analysis</b> - <a href="https://github.com/SaraVell1/Network-Analysis.git">Project Repository</a></li>
+  <li> <b>Open Science</b> - <a href="https://github.com/open-sci/2022-2023-pika-py-code"> Project Repository</a></li>
 </ul>
 <br>
 <h1>A.Y. 2021/2022</h1>
