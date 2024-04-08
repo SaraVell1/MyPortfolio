@@ -7,6 +7,12 @@ This is my projects' portfolio. Most of the projects here contained have been cr
    <li> <b>Network Analysis</b> - <a href="https://github.com/SaraVell1/Network-Analysis.git">Project Repository</a></li>
   <li> <b>Open Science</b> - <a href="https://github.com/open-sci/2022-2023-pika-py-code"> Project Repository</a></li>
 </ul>
+<h3>Thesis project</h3>
+<ul>
+  <li>
+    <b>Flying Digital Editions - A tool for enhancing digital text exploration through Wikidata</b> - <a href="https://github.com/SaraVell1/FDE-project">Project Repository</a>
+  </li>
+</ul>
 <br>
 <h1>A.Y. 2021/2022</h1>
 <ul>
